@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🌱 I’m currently learning React.js
+
+You can visit my portfolio [https://saadh393.github.io/](https://saadh393.github.io/)
+
 
 <!--
 **saadh393/saadh393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
