@@ -3,7 +3,7 @@
 
 You can visit my portfolio [https://saadh393.github.io/](https://saadh393.github.io/)
 
-
+[![Saad Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadh393)](https://github.com/saadh393/github-readme-stats)
 <!--
 **saadh393/saadh393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
