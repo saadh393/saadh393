@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js & Node.js
 
 You can visit my portfolio [https://saadh393.github.io/](https://saadh393.github.io/)
 
