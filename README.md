@@ -1,28 +1,31 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning React.js & Node.js
-
-You can visit my portfolio [https://saadh393.github.io/](https://saadh393.github.io/)
-
-[![Saad Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadh393&theme=vue-dark&show_icons=true)](https://github.com/saadh393/github-readme-stats)
-
+<img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/header.jpg" alt="Saad Hasan's Github Banner" >
 # Hey There 👋
 
-I am Saad Hasan, self-taught Junior Softwere Developer from Bangladesh. I am specialized in Frontend Development. My mission is to convert an idea into a real pixel-perfect application.
+I am Saad Hasan, self-taught Junior Softwere Developer from Bangladesh. I am specialized in Frontend Development. My mission is to convert an idea into a real pixel-perfect application. 
+
+Want to know more about me ? [Check out my Portfolio.](https://saadh393.github.io/)
+
+
 
 - 📚 Currently I am focusing on Node.js
 
 - 🎯 Goal of 2021 is to learn Node.js, Vue.js & Industrial Good Practices
-  
-  
+
+
+
+#### Find me on Social Platforms
+
+Linkedin, Facebook, Discord, Twitter, Instagram
+
+
 
 
 
 ### 🛠Languages & Tools
 
-<img title="" src="file:///E:/Mass%20Download/Chrome%20Download/techIcons/new/typescript.png" alt="typescript.png" width="50" data-align="inline"> <img title="" src="file:///E:/Mass%20Download/Chrome%20Download/techIcons/new/javascript%20(2).png" alt="javascript (2).png" width="50" data-align="inline"> <img src="file:///E:/Mass%20Download/Chrome%20Download/techIcons/new/php.png" title="" alt="php.png" width="50"> <img src="file:///E:/Mass%20Download/Chrome%20Download/techIcons/new/python.png" title="" alt="python.png" width="50"> <img title="" src="file:///E:/Mass%20Download/Chrome%20Download/techIcons/new/kotlin.png" alt="kotlin.png" width="50"> <img title="" src="file:///E:/Mass%20Download/Chrome%20Download/techIcons/new/react.png" alt="react.png" data-align="inline" width="50"> <img src="file:///E:/Mass%20Download/Chrome%20Download/techIcons/new/redux.png" title="" alt="redux.png" width="50">  <img src="file:///E:/Mass%20Download/Chrome%20Download/techIcons/new/sass.png" title="" alt="sass.png" width="50">  <img src="file:///E:/Mass%20Download/Chrome%20Download/techIcons/new/express.png" title="" alt="express.png" width="50"> <img src="file:///E:/Mass%20Download/Chrome%20Download/techIcons/new/firebase.png" title="" alt="firebase.png" width="50"><img src="file:///E:/Mass%20Download/Chrome%20Download/techIcons/new/android.png" title="" alt="android.png" width="50"> <img src="file:///E:/Mass%20Download/Chrome%20Download/techIcons/new/git.png" title="" alt="git.png" width="50">
+<img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/typescript.png" alt="typescript.png" width="50" data-align="inline"> <img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/javascript%20(2).png" alt="javascript (2).png" width="50" data-align="inline"> <img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/php.png" title="" alt="php.png" width="50"> <img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/python.png" title="" alt="python.png" width="50"> <img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/kotlin.png" alt="kotlin.png" width="50"> <img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/react.png" alt="react.png" data-align="inline" width="50"> <img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/redux.png" title="" alt="redux.png" width="50">  <img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/sass.png" title="" alt="sass.png" width="50">  <img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/express.png" title="" alt="express.png" width="50"> <img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/firebase.png" title="" alt="firebase.png" width="50"><img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/android.png" title="" alt="android.png" width="50"> <img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/git.png" title="" alt="git.png" width="50">
 
-<img src="file:///E:/Mass%20Download/Chrome%20Download/techIcons/new/figma.png" title="" alt="figma.png" width="50"> <img src="file:///E:/Mass%20Download/Chrome%20Download/techIcons/new/photoshop%20(1).png" title="" alt="photoshop (1).png" width="50">  <img title="" src="file:///E:/Mass%20Download/Chrome%20Download/techIcons/new/illustrator.png" alt="illustrator.png" width="50">  <img src="file:///E:/Mass%20Download/Chrome%20Download/techIcons/new/xd.png" title="" alt="xd.png" width="50">
+<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/figma.png" title="" alt="figma.png" width="50"> <img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/photoshop%20(1).png" title="" alt="photoshop (1).png" width="50">  <img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/illustrator.png" alt="illustrator.png" width="50">  <img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/xd.png" title="" alt="xd.png" width="50">
 
 
 
