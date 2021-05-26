@@ -7,7 +7,6 @@ I am **Saad Hasan**, self-taught Junior Softwere Developer from Bangladesh. I am
 Want to know more about me ? [**Check out my Portfolio.**](https://saadh393.github.io/)
 
 
-
 - 📚 Currently I am focusing on Node.js
 
 - 🎯 Goal of 2021 is to learn Node.js, Vue.js & Industrial Good Practices
