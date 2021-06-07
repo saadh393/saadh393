@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadh393&layout=compact&langs_count=10)](https://github.com/saadh393)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@saadh393)](#)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@saadh393&layout=compact)](#)
 
 <br/>
 
