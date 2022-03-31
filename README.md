@@ -2,7 +2,7 @@
 
 # Hey There 👋
 
-I am **Saad Hasan**, self-taught Junior Softwere Developer from Bangladesh. I am specialized in Frontend Development. My mission is to convert an idea into a real pixel-perfect application.
+I am **Saad Hasan**, self-taught Junior Software Developer from Bangladesh. I am specialized in Frontend Development. My mission is to convert an idea into a real pixel-perfect application.
 
 Want to know more about me ? [**Check out my Portfolio.**](https://saadh393.github.io/)
 
