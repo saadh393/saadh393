@@ -70,8 +70,8 @@ Want to know more about me ? [**Check out my Portfolio.**](https://saadh393.gith
 
 ## 👩‍💻 Something I have Developed
 
-[![Bazar Shodai](https://github-readme-stats.vercel.app/api/pin/?username=saadh393&repo=bazar-sodai-client)](https://github.com/saadh393/bazar-sodai-client)
+[![Justicia Feminist Network](https://justiciabd.com/)](https://github.com/saadh393/Justicia-Laravel)
 
-[![Meme Generator](https://github-readme-stats.vercel.app/api/pin/?username=saadh393&repo=Meme-Gen)](https://github.com/saadh393/Meme-Gen)
+[![Risalat Siddique Portfolio](http://risalatsiddique.com/)](https://github.com/saadh393/risalat-portfolio)
 
 [![Hasan IT Solution](https://github-readme-stats.vercel.app/api/pin/?username=saadh393&repo=hasan-it-solution)](https://github.com/saadh393/hasan-it-solution)
