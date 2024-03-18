@@ -2,13 +2,26 @@
 
 # Hey There 👋
 
-I am **Saad Hasan**, self-taught Junior Software Developer from Bangladesh. I have been working as a Professional Frontend Developer for the last 1 year, Though I started my Self-Taught Programming Journey In 2014. I am specialized in converting pixel-perfect web pages for my company with 100% Mobile responsiveness. In the last few years, I have helped dozen of my client to create websites for their business that are absolutely mobile and SEO friendly.
+I am a Self-motivated and self-taught programmer with a passion for innovation and continuous learning. Over a decade of experience in software development, specializing in JavaScript and frontend technologies. Currently serving as a Junior Software Engineer, adept at frontend development, backend deployment. Dedicated to developing my knowledge of low-level programming using Rust and seeking to enter the fields of Data Science and Machine Learning by studying Mathematics and Statistics in 2024.
 
-Want to know more about me ? [**Check out my Portfolio.**](https://saadh393.github.io/)
+*💼 Experience:*
+- 12 years of overall experience, including skills in frontend development, backend deployment, and mobile app development..
+- Proficient in JavaScript and has considerable expertise with Node.js, React, Next.js, Redux, Express, and Socket.io.
+- Experienced in Android app development using Java and Kotlin, as well as Python web automation with Selenium and Requests.
+- Familiarity with PyQT and OpenCV for various projects.
+- Currently employed as a Junior Software Engineer, responsible for frontend development, backend deployment, and contributing to React Native projects.
 
-- 📚 Currently I am focusing on Node.js
+*🛠️ Skills:*
+- Proficient in JavaScript and modern frontend frameworks such as React, Next.js, and Redux.
+- Experienced in backend development with Node.js and deployment with Express.
+- Skilled in Android app development with Java and Kotlin.
+- Proficient in Python for web automation and projects involving PyQT and OpenCV.
 
-- 🎯 Goal of 2021 is to learn Node.js, Vue.js & Industrial Good Practices
+*🏆 Career Highlights:*
+- Led successful development projects, delivering high-quality frontend solutions.
+- Contributed to the deployment of robust backend systems, ensuring smooth operation.
+- Actively involved in React Native projects, driving innovation and efficiency.
+- Pursuing continuous professional development, with plans to master low-level programming in Rust and delve into Data Science and Machine Learning in 2024.
 
 <br/>
 # Find me on Social Platforms
