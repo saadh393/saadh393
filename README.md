@@ -1,6 +1,6 @@
 
-<img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/header.jpg" alt="Saad Hasan's Github Banner" >
-<a href="https://app.daily.dev/saadh393"><img src="https://api.daily.dev/devcards/v2/H9v3Y3qnlw8vO005U8it8.png?type=wide&r=u4j" width="652" alt="Saad Hasan's Dev Card"/></a>
+<!-- <img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/header.jpg" alt="Saad Hasan's Github Banner" > -->
+<img src="https://api.daily.dev/devcards/v2/H9v3Y3qnlw8vO005U8it8.png?type=wide&r=u4j" width="652" alt="Saad Hasan's Dev Card" style="text-align:center; margin:0 auto; display:block"/>
 
 # Hey There 👋
 
