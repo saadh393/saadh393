@@ -83,7 +83,7 @@ Known for handling both frontend and backend deployment, adapting quickly to mod
   <tr>
     <td width="33%">
       <a href="https://saadh393.github.io/blogs/http-caching-in-node-js-with-undici">
-        <img src="https://saadh393.github.io/images/http-caching.png" width="100%" alt="HTTP Caching in Node.js"/>
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1732703443989/4bca3143-2064-4ad4-9574-fe438189a54b.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="100%" alt="HTTP Caching in Node.js"/>
         <strong>HTTP Caching in Node.js</strong><br/>
         Practical guide to caching in Undici v7.0.0 with examples.
       </a>
