@@ -117,7 +117,7 @@ Contributed to improving an open-source resource for React patterns and anti-pat
 
 ## 📫 Let's Connect
 
-- 📄 [View My Resume](https://saadh393.github.io/resume.pdf)
+- 📄 [View My Resume](https://github.com/saadh393/saadh393/blob/main/Jr-Software-Engineer-Nasimul-Hasan.pdf)
 - 🌐 [Portfolio Website](https://saadh393.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/saadh393/)
 - 🐙 [GitHub](https://github.com/saadh393)
