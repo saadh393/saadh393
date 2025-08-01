@@ -1,92 +1,140 @@
+<!-- Banner -->
+<img src="https://api.daily.dev/devcards/v2/H9v3Y3qnlw8vO005U8it8.png?type=wide&r=u4j" width="100%" alt="Saad Hasan's Dev Card" />
 
-<!-- <img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/header.jpg" alt="Saad Hasan's Github Banner" > -->
-<img src="https://api.daily.dev/devcards/v2/H9v3Y3qnlw8vO005U8it8.png?type=wide&r=u4j" width="652" alt="Saad Hasan's Dev Card" style="text-align:center; margin:0 auto; display:block"/>
+# 👋 Hi, I'm Saad Hasan — Full Stack JavaScript Developer
 
-# Hey There 👋
+Self-taught JavaScript Developer with a frontend foundation and growing expertise in scalable backend development using Node.js. Actively building production-ready systems and looking for remote backend or full-stack roles.
 
-I am a Self-motivated and self-taught programmer with a passion for innovation and continuous learning. Over a decade of experience in software development, specializing in JavaScript and frontend technologies. Currently serving as a Junior Software Engineer, adept at frontend development, backend deployment. Dedicated to developing my knowledge of low-level programming using Rust and seeking to enter the fields of Data Science and Machine Learning by studying Mathematics and Statistics in 2024.
+Known for handling both frontend and backend deployment, adapting quickly to modern technologies, and applying critical thinking to solve real-world development challenges.
 
-*💼 Experience:*
-- 12 years of overall experience, including skills in frontend development, backend deployment, and mobile app development..
-- Proficient in JavaScript and has considerable expertise with Node.js, React, Next.js, Redux, Express, and Socket.io.
-- Experienced in Android app development using Java and Kotlin, as well as Python web automation with Selenium and Requests.
-- Familiarity with PyQT and OpenCV for various projects.
-- Currently employed as a Junior Software Engineer, responsible for frontend development, backend deployment, and contributing to React Native projects.
+---
 
-*🛠️ Skills:*
-- Proficient in JavaScript and modern frontend frameworks such as React, Next.js, and Redux.
-- Experienced in backend development with Node.js and deployment with Express.
-- Skilled in Android app development with Java and Kotlin.
-- Proficient in Python for web automation and projects involving PyQT and OpenCV.
+## 🛠 Tech Stack at a Glance
 
-*🏆 Career Highlights:*
-- Led successful development projects, delivering high-quality frontend solutions.
-- Contributed to the deployment of robust backend systems, ensuring smooth operation.
-- Actively involved in React Native projects, driving innovation and efficiency.
-- Pursuing continuous professional development, with plans to master low-level programming in Rust and delve into Data Science and Machine Learning in 2024.
+| Category         | Tools & Technologies |
+|------------------|----------------------|
+| ![Frontend](https://img.shields.io/badge/Frontend-%2320232a.svg?logo=react&logoColor=61DAFB) | ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white) |
+| ![Backend](https://img.shields.io/badge/Backend-%2320232a.svg?logo=node.js&logoColor=green) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-ffcc00?style=flat&logo=swagger) |
+| ![Databases](https://img.shields.io/badge/Database-%2300f.svg?logo=databricks&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| ![ORMs](https://img.shields.io/badge/ORM-%2320232a.svg?logo=prisma&logoColor=white) | ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma) ![Drizzle](https://img.shields.io/badge/-Drizzle-ec7600?style=flat) ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat) |
+| ![Infrastructure](https://img.shields.io/badge/Infra-%2300f.svg?logo=docker&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![BullMQ](https://img.shields.io/badge/-BullMQ-DD0031?style=flat) |
+| ![Testing & Monitoring](https://img.shields.io/badge/Testing-%2320232a.svg?logo=jest&logoColor=white) | ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Loki](https://img.shields.io/badge/-Loki-0a0a0a?style=flat) |
+| ![Deployment](https://img.shields.io/badge/Deployment-%2300f.svg?logo=vercel&logoColor=white) | ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/-Render-3f3f3f?style=flat) |
+| ![Cloud](https://img.shields.io/badge/Cloud-%2320232a.svg?logo=aws&logoColor=orange) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=orange) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![GCP](https://img.shields.io/badge/-GCS-4285F4?style=flat&logo=google-cloud&logoColor=white) |
+| ![Learning](https://img.shields.io/badge/Learning-%2300f.svg?logo=thealgorithms&logoColor=white) | System Design, DSA (DFS, BFS, Graph), Kubernetes |
 
-<br/>
-# Find me on Social Platforms
 
-[![Linkedin](https://raw.githubusercontent.com/saadh393/saadh393/main/images/linkedin.png "Linkedin")](https://www.linkedin.com/in/saadh393/ "Linkedin") [![Facebook](https://raw.githubusercontent.com/saadh393/saadh393/main/images/fb.png "Facebook")](http://facebook.com/saadh393 "Facebook") [![Discord](https://raw.githubusercontent.com/saadh393/saadh393/main/images/discord.png "Discord")](https://discordapp.com/users/saadh393#7577 "Discord") [![Instagram](https://raw.githubusercontent.com/saadh393/saadh393/main/images/instagram.png "Instagram")](https://www.instagram.com/saadh393/ "Instagram")
+---
 
-<div>
+## 🚀 Featured Projects
 
-## 🛠 Languages & Tools
+### 🎓 Learn with Sumit – Scalable LMS Platform  
+> A complex learning management system used by **10,000+ students** and generating **1 crore+ BDT revenue**.
 
-<img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/javascript%20(2).png" alt="javascript (2).png" width="30" data-align="inline" /> 
-<img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/typescript.png" alt="typescript.png" width="30"data-align="inline"/> 
-<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/php.png" title="" alt="php.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/python.png" title="" alt="python.png" width="30" /> 
-<img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/kotlin.png" alt="kotlin.png" width="30" /> 
-<img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/react.png" alt="react.png" data-align="inline" width="30" /> 
-<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/redux.png" title="" alt="redux.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/sass.png" title="" alt="sass.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/express.png" title="" alt="express.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/firebase.png" title="" alt="firebase.png" width="30" />
-<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/android.png" title="" alt="android.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/git.png" title="" alt="git.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/figma.png" title="" alt="figma.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/photoshop%20(1).png" title="" alt="photoshop (1).png" width="30" /> 
-<img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/illustrator.png" alt="illustrator.png" width="30" />
-<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/xd.png" title="" alt="xd.png" width="30" /></div>
+**🔧 Key Contributions:**
+- Built the platform using **Next.js + Node.js**, handling thousands of daily active users.
+- Integrated **Stripe payments**, **SSO**, and **DRM-protected video streaming**.
+- Developed **watch-time tracking**, **quiz modules**, **CV generator**, and real-time notifications.
+- Secured the app with **JWT auth**, **RBAC**, and **MongoDB with encryption**.
 
-<table border="0">
+**🧰 Tech Stack:** Node.js, MongoDB, Cloudinary, Stripe, DRM, AWS S3, Next.js
+
+---
+
+### 📺 Video Streaming Platform (System Design Practice)  
+> A microservices-based video platform built to explore system design and scalable backend architecture.
+
+**🧩 Features:**
+- HLS streaming, chunked uploads, video transcoding with **FFmpeg**
+- Queue-based processing with **BullMQ + Redis**
+- S3-compatible object storage via **MinIO**
+- Fully containerized via **Docker**
+
+**🧰 Tech Stack:** Node.js, Express, TypeScript, FFmpeg, BullMQ, Redis, MinIO, Docker
+
+---
+
+<h2>📚 Featured Blog Posts</h2>
+
+<table>
   <tr>
-    <td>
-
-[![Saad Hasan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@saadh393&layout=compact)](#)
-
-  </td>
-
-  <td>
-    <a href="https://app.daily.dev/saadh393"><img src="https://api.daily.dev/devcards/52a2884137c14895ae917896eb442c6d.png?r=yxj" width="400" alt="Saad Hasan's Dev Card"/></a>
-  </td>
-
+    <td width="33%">
+      <a href="https://saadh393.medium.com/understanding-concurrency-parallelism-and-sequential-execution-46f30c55ca07">
+        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*WJ-a0Xk1pTf-wkepQSb75g.png" width="100%" alt="Concurrency vs Parallelism"/>
+        <strong>Concurrency vs Parallelism</strong><br/>
+        Visual guide comparing task execution models with animations.
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://saadh393.medium.com/the-event-loop-explained-like-youre-a-top-1-node-js-engineer-f9fea55b00f9">
+        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*6IWbltgeQuKTDKltTDYAiw.png" width="100%" alt="Event Loop in Node.js"/>
+        <strong>Node.js Event Loop Explained</strong><br/>
+        Deep dive into async flow, thread pool, and V8 phases.
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://saadh393.github.io/blogs/javascript-execution-context?ref=dailydev">
+        <img src="https://saadh393.github.io/images/js-execution-context.png" width="100%" alt="JS Execution Context"/>
+        <strong>JS Execution Context</strong><br/>
+        Visual explanation of how JS creates and manages context.
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <a href="https://saadh393.github.io/blogs/http-caching-in-node-js-with-undici">
+        <img src="https://saadh393.github.io/images/http-caching.png" width="100%" alt="HTTP Caching in Node.js"/>
+        <strong>HTTP Caching in Node.js</strong><br/>
+        Practical guide to caching in Undici v7.0.0 with examples.
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://saadh393.hashnode.dev/getting-started-with-prismajs">
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688296223661/089d9360-58bf-4aea-b202-84e55d493aed.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="100%" alt="Prisma.js Guide"/>
+        <strong>Getting Started with Prisma</strong><br/>
+        Learn Prisma ORM from setup to schema and queries.
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://saadh393.hashnode.dev/building-react-custom-hooks-from-scratch">
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688296223661/089d9360-58bf-4aea-b202-84e55d493aed.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="100%" alt="Custom React Hooks"/>
+        <strong>Custom React Hooks</strong><br/>
+        Build real-world reusable hooks in React from scratch.
+      </a>
+    </td>
   </tr>
 </table>
-<br/>
 
-## 🌟 Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadh393&layout=compact&langs_count=10)](https://github.com/saadh393)
+---
 
-## 📝 Latest Blogs
+## 🌍 Open Source Contribution
 
-- Understanding Hoisting In JavaScript
+### 🧩 [React Bits – GitHub Issue #278](https://github.com/DavidHDev/react-bits/issues/278)
+Contributed to improving an open-source resource for React patterns and anti-patterns. Helped report and diagnose a broken search UI for better developer experience.
 
-- TypeScript Cheatsheet
+---
 
-- [10 Probable JavaScript Interview Questions](https://saadh393.medium.com/10-probable-javascript-questions-c7d093b37aa1)
+## 📫 Let's Connect
 
-<br/>
+- 📄 [View My Resume](https://saadh393.github.io/resume.pdf)
+- 🌐 [Portfolio Website](https://saadh393.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/saadh393/)
+- 🐙 [GitHub](https://github.com/saadh393)
+- 🐦 [Twitter / X](https://x.com/saadx393)
+- ✍️ [Medium Blog](https://medium.com/@saadh393)
+- 📓 [Hashnode Blog](https://saadh393.hashnode.dev/)
+- 🔎 [Daily.dev Profile](https://app.daily.dev/saadh393)
+- 🧠 [LeetCode Profile](https://leetcode.com/u/saadh393/)
 
-<br/>
+---
 
-## 👩‍💻 Something I have Developed
+## 📊 GitHub Stats
 
-[![Justicia Feminist Network](https://justiciabd.com/)](https://github.com/saadh393/Justicia-Laravel)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=saadh393&show_icons=true&theme=default&hide_title=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadh393&layout=compact&langs_count=8&hide_title=true" height="150">
+</p>
 
-[![Risalat Siddique Portfolio](http://risalatsiddique.com/)](https://github.com/saadh393/risalat-portfolio)
+---
 
-[![Hasan IT Solution](https://github-readme-stats.vercel.app/api/pin/?username=saadh393&repo=hasan-it-solution)](https://github.com/saadh393/hasan-it-solution)
