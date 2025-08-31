@@ -1,11 +1,9 @@
 <!-- Banner -->
-<img src="https://api.daily.dev/devcards/v2/H9v3Y3qnlw8vO005U8it8.png?type=wide&r=u4j" width="100%" alt="Saad Hasan's Dev Card" />
+<img src="https://raw.githubusercontent.com/saadh393/saadh393/refs/heads/main/images/banner_1.png" width="100%" alt="Saad Hasan's Profile Header" />
 
 # 👋 Hi, I'm Saad Hasan — Full Stack JavaScript Developer
 
-Self-taught JavaScript Developer with a frontend foundation and growing expertise in scalable backend development using Node.js. Actively building production-ready systems and looking for remote backend or full-stack roles.
-
-Known for handling both frontend and backend deployment, adapting quickly to modern technologies, and applying critical thinking to solve real-world development challenges.
+I build distributed backends and full stack features that prioritize reliability, performance, and cost. Experience spans real time collaboration, search and ranking, job orchestration, notifications, and rate limiting, built with clarity, safety, and growth in mind.
 
 ---
 
